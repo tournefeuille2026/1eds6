@@ -9,4 +9,4 @@ puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cli
   
 ## Travail à faire
 ### 1.  pour lundi: exercices 1,2,16a,b,c de la fiche de révision. Prévoir une interro de cours.
-### 2. pour mercredi: rédiger 1,2, 9 (sauf les questions de limiets et convergence) de la fiche d'"exercices trigo.
+### 2. pour mercredi: rédiger 1,2, 9 (sauf les questions de limites et convergence) de la fiche d'exercices trigo.
