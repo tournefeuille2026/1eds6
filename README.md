@@ -3,6 +3,21 @@ ajouter 'pdf' devant l'adresse github.com
 
 --> pdfgithub.com/tournefeuille2026/1eds6/fichier.pdf
 
+
+## Le 15/10 pour le 3/11
+-Devoir surveillé effectué
+-Début suites
+-affichage avec python des termes d'une suite, y compris récurrente
+### *à faire*
+-Reprendre toutes les suites du cours, avec python
+-Sur la fiche d'exercices exercice 1 (utiliser python au lieu de la calculatrice)
+-Wims:
+> -fiches second degré 1, 2 et 3 à terminer pour ceux qui ne l'ont pas fait
+> -fiches fractions et exposant (dans la section des  révisions)
+
+
+
+
 ##Pour le 01/10/2026
 Prévoir un devoir suveillé, 1h.
 
